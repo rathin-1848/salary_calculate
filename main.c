@@ -1,4 +1,4 @@
-/*Salary Calculation for user*/
+/*Salary Calculation*/
 
 #include<stdio.h>
 
