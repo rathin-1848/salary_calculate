@@ -8,7 +8,7 @@ int main()
     float da,hra,ta,tax,salary,net;
     
     printf("Enter your name: ");
-    scanf("%[^\n]", name);
+    scanf("%s", name);
     
     printf("Enter your salary: ");
     scanf("%f", &salary);
