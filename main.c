@@ -25,6 +25,6 @@ int main()
     printf("Yours HRA is: %.2f\n", hra);
     printf("Yours TA is: %.2f\n", ta);
     printf("Yours TAX is: %.2f\n", tax);
-    printf("Yours total salary respect to %.2f: %.2f", name,salary,net);
+    printf("Yours total salary respect to %.2f: %.2f", salary,net);
     return 0;
 }
